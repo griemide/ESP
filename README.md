@@ -1,9 +1,11 @@
 # ESP
 Espressif Chip - ESP8266 / ESP32 Applications
 
-![logo](Espressif-logo.jpg) 
+[![logo](images/Espressif-logo.jpg)](https://www.espressif.com/)
 
 ## Private Projects
+
+See [Hardware](https://github.com/griemide/Hardware) for used boards and breadoud-kits.
 
 ### ESP8266
 
